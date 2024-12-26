@@ -6,7 +6,7 @@ a:link{
 a:visited{
     color: rgb(255, 0, 0);
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:hover{
     color: rgb(0, 255, 0);
@@ -16,5 +16,5 @@ a:hover{
 a:active{
     color: rgb(0, 0, 255);
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
 }
