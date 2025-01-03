@@ -5,11 +5,17 @@ a:link{
     color: rgb(255, 0, 0);
     background-color: transparent;
     text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
 }
 a:visited{
     color: rgb(255, 0, 0);
     background-color: transparent;
     text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
 }
 a:hover{
     color: rgb(0, 255, 0);
